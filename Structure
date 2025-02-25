@@ -1,0 +1,36 @@
+NebulaProxy/
+├── api/
+│   ├── proxy.js
+│   ├── utils.js
+│   └── config.js
+├── backend/
+│   ├── server.js
+│   ├── proxyHandler.js
+│   └── config.js
+├── components/
+│   ├── navbar.html
+│   └── footer.html
+├── frontend/
+│   ├── css/
+│   │   ├── main.css
+│   │   ├── games.css
+│   │   ├── apps.css
+│   │   └── settings.css
+│   └── js/
+│       ├── main.js
+│       ├── games.js
+│       ├── apps.js
+│       └── settings.js
+├── public/
+│   ├── assets/
+│   │   ├── style.css
+│   │   ├── script.js
+│   │   └── logo.png
+│   ├── home.html
+│   ├── games.html
+│   ├── apps.html
+│   ├── settings.html
+│   └── proxy.html
+├── package.json
+├── vercel.json
+└── README.md
