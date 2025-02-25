@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>NebulaProxy - Proxy</title>
+  <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+  <!-- Navbar -->
+  <nav>
+    <ul>
+      <li><a href="home.html">Home</a></li>
+      <li><a href="games.html">Games</a></li>
+      <li><a href="apps.html">Apps</a></li>
+      <li><a href="settings.html">Settings</a></li>
+      <li><a href="proxy.html">Proxy</a></li>
+    </ul>
+  </nav>
+  <h1>Web Proxy</h1>
+  <p>Enter a URL to browse through the proxy:</p>
+  <form id="proxyForm" action="/api/proxy" method="get" target="_blank">
+    <input type="text" name="url" placeholder="https://example.com" required>
+    <button type="submit">Go</button>
+  </form>
+  <!-- Footer -->
+  <footer>
+    <p>&copy; 2025 NebulaProxy</p>
+  </footer>
+  <script src="assets/script.js"></script>
+</body>
+</html>
