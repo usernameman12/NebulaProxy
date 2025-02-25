@@ -1,0 +1,9 @@
+/* Apps-specific styles */
+.app-link {
+    padding: 10px;
+    margin: 5px;
+    border: 1px solid #28a745;
+    border-radius: 5px;
+    display: inline-block;
+  }
+  

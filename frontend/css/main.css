@@ -1,0 +1,17 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f5f5f5;
+  }
+  
+  a {
+    text-decoration: none;
+    color: #0070f3;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  

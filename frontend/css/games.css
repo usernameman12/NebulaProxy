@@ -1,0 +1,9 @@
+/* Games-specific styles */
+.game-link {
+    padding: 10px;
+    margin: 5px;
+    border: 1px solid #0070f3;
+    border-radius: 5px;
+    display: inline-block;
+  }
+  

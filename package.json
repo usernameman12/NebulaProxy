@@ -1,0 +1,14 @@
+{
+    "name": "nebula-proxy",
+    "version": "1.0.0",
+    "description": "NebulaProxy: A multi-purpose web proxy portal with games, apps, and settings.",
+    "main": "backend/server.js",
+    "scripts": {
+      "start": "node backend/server.js"
+    },
+    "dependencies": {
+      "express": "^4.18.2",
+      "node-fetch": "^2.6.7"
+    }
+  }
+  
